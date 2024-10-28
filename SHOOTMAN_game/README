@@ -1,0 +1,15 @@
+The game is a shooter minigame designed to try to score a highest score inspired by other 
+retro styled games.
+
+You walk with WASD, and shoot with IJKL.
+
+Health drops on occasion as little red diamonds.
+Power ups drop on occasion that change the way the bullets work.
+The player has 3 lifes.
+A lot of the difficulty came with calculating projectiles and ensuring all the collisions were dealt with.
+
+
+In order to play, navigate to the shootman_game folder
+type "make" 
+then "./main"
+Game should be running
